@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: author-p135514-e313212-cmstg.adobeaemcloud.com/bin/franklin.delivery/lovelymandal16/xwalk-s8/main
+    type: "markup"
+    suffix: ".html"
